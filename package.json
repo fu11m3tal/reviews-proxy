@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "newrelic": "^5.11.0",
-    "url-loader": "^2.1.0"
+    "url-loader": "^4.1.1"
   },
   "devDependencies": {
     "body-parser": "^1.19.0",
